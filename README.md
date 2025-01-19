@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://leetcard.jacoblin.cool/anemon-a)
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anemon-a&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anemon-a&layout=compact)
