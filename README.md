@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://leetcard.jacoblin.cool/anemon-a)
+![](https://leetcard.jacoblin.cool/anemon-a?theme=light)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anemon-a&layout=compact)
