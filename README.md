@@ -39,15 +39,17 @@ I'm a backend developer with 2 years from Russia:
 ![Pydantic](https://img.shields.io/badge/Pydantic-008000?style=for-the-badge&logo=python&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Poetry](https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D)
-
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+
 ---
-
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=anemon-a
 
-![](https://leetcard.jacoblin.cool/anemon-a?theme=light)
+![anemon-a's Stats](https://github-readme-stats.vercel.app/api?username=anemon-a&theme=default&show_icons=true&count_private=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anemon-a&hide_progress=false&hide=c%2B%2B&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anemon-a&layout=compact)
+<!-- ![anemon-a's Streak](https://github-readme-streak-stats.herokuapp.com/?user=anemon-a&theme=default&hide_border=true) -->
+### My LeetCode Stats :
+![](https://leetcard.jacoblin.cool/anemon-a?theme=light&border=0)
+
