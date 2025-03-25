@@ -1,3 +1,4 @@
+<img src="https://komarev.com/ghpvc/?username=anemon-a&style=flat-square&color=blue" alt=""/>
 ## Hi there 👋
 
 <!--
