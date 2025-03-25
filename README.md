@@ -14,20 +14,16 @@
   </h1>
 </div>
 
-<!--
-**anemon-a/anemon-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :woman_technologist: About Me :
+I'm a backend developer with 2 years from Russia:
+- 🔭 I specialize in API development, asynchronous services, and Telegram bots.
+- 🌱 I'm passionate about high-load systems, microservice architecture, and writing clean, readable code.
+- ✨ In my free time,  I solve LeetCode problems, join hackathons and CTFs — I like to think, not just code.
+- 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/lavondas-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/lavondas)
+---
 
-Here are some ideas to get you started:
+### :hammer_and_wrench: Languages and Tools 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![](https://leetcard.jacoblin.cool/anemon-a?theme=light)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anemon-a&layout=compact)
